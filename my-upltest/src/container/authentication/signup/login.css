@@ -1,0 +1,30 @@
+
+.heading_h1{
+    width: 56%;
+    color: #fff;
+    margin:0 auto;
+    font-size: 3em;
+    
+}
+.paperStyle_signin{
+    margin-top: 50px;
+    padding: 20px;
+    height: auto;
+    width: 350px;
+    border-radius: 15px;
+}
+.form{
+    margin:20px;
+}
+.signin_card{
+    display: flex;
+    justify-content: center;
+}
+.form-btn{
+    border-radius: 10px;
+    background-color: blueviolet;
+}
+.form-link{
+    text-decoration: none;
+    color: blueviolet;
+}
